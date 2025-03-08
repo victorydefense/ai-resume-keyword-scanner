@@ -1,0 +1,57 @@
+We are Topflight Apps! An innovative group of product strategists, designers, and developers. Together we create custom app solutions for startups and mid-sized businesses, and what we do best is tackle some of the biggest problems in healthcare, fintech, blockchain technology, and on-demand. Due to our expansions, we’re currently looking for a brilliant AI Developer (Crypto/Web3) to join our family.
+
+This role is only open to candidates based in the US or Europe.
+
+What’s in it for you:
+● Work from Anywhere (100% Remote): Enjoy the flexibility of working from the comfort of
+your home.
+● Salary and Year-End Bonuses: Experience annual salary reviews and year-end
+bonuses, determined by a combination of individual and company financial performance.
+● Learning Opportunities: Collaborate and learn from colleagues within your department
+and project squad.
+● Flexible Time Off: Benefit from flexibility in taking time off when needed.
+● Work-Life Balance: We prioritize efficient work completion, allowing you to enjoy a
+balanced life, especially on weekends.
+
+Projects You’ll Be Working On:
+● As an agency, you will be involved in a variety of innovative projects aiming to push the
+limits in healthcare, fintech, edtech, crypto, and on-demand spaces.
+
+Your Responsibilities Include:
+● Build and deploy production-grade smart contracts on Ethereum and Solana, leveraging
+AI tools for accelerated development
+● Develop full-stack dApps with modern Web3 frameworks, including secure wallet
+integration and efficient transaction handling
+● Create AI-powered development pipelines for code generation, testing, and security
+validation
+● Build intelligent monitoring systems for smart contract behavior and network analytics
+● Optimize for gas efficiency and maintain high security standards across all deployments
+
+The key characteristics we're looking for are:
+● 3+ years of blockchain development experience with production dApp deployments
+● Strong proficiency in Solidity, Rust, TypeScript, and modern frontend frameworks
+(React/Next.js)
+● Expertise in AI/LLM integration:
+LLM APIs (OpenAI, Anthropic) and custom tool development
+Prompt engineering and model fine-tuning for blockchain tasks
+Vector databases for code analysis
+● Deep knowledge of:
+EVM architecture and Solana Program Library
+Smart contract security patterns and audit tools
+Layer 2 solutions and cross-chain protocols
+Web3 development stack (Web3.js, Ethers.js, Anchor, Hardhat)
+
+Desirable characteristics:
+● Experience with AI-powered smart contract auditing and gas optimization
+● Knowledge of Zero-Knowledge Proofs and MEV
+● Familiarity with DeFi protocols and token economics
+● Contribution to open-source blockchain projects
+● Experience with advanced Web3 tooling (RainbowKit, wagmi, The Graph)
+
+Important to know:
+● This role is only open to candidates based in the US or Europe.
+● Since we are fully remote and our team is across the globe, you are expected to interact
+with different teams and need to be flexible with different time zones.
+● All new joiners with Topflight Apps go through a one-month trial at the start of their
+employment journey. This is to ensure your onboarding goes smoothly and that both
+parties are aligned on future expectations.
